@@ -1,0 +1,44 @@
+
+{
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid","Moscow"],
+        "correctAnswer": ["Paris"],
+        "multipleChoice": false
+      },
+      {
+        "id": 2,
+        "text": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus","Moon"],
+        "correctAnswer": ["Jupiter"],
+        "image": "",
+        "multipleChoice": false
+      },
+      {
+        "id": 3,
+        "text": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane","H20"],
+        "correctAnswer": ["Carbon Dioxide"],
+        "multipleChoice": false
+      },
+      {
+        "id": 4,
+        "text": "How do you judge what should be added in the next version of the app?",
+        "options": ["Data Analysis", "User’s feedback", "Copy from similar product", "Make a questionary","Personal feeling"],
+        "correctAnswer": ["Data Analysis"],
+        "image":"QuestionImgages",
+        "multipleChoice": false
+      },
+      {
+        "id": 5,
+        "text": "How do you judge what should be added in the next version of the app?",
+        "options": ["Data Analysis", "User’s feedback", "Copy from similar product", "Make a questionary","Personal feeling"],
+        "correctAnswer": ["Data Analysis", "User’s feedback"],
+        "multipleChoice": true
+        
+      }
+    ]
+  }
+  
